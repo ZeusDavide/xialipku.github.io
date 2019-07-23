@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianlong Wu on Xia Li</title>
+    <link>/authors/jianlong-wu/</link>
+    <description>Recent content in Jianlong Wu on Xia Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 22 Jul 2019 21:30:06 +0800</lastBuildDate>
+    
+	    <atom:link href="/authors/jianlong-wu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expectation Maximization Attention Networks for Semantic Segmentation</title>
+      <link>/publication/expectation-maximization-attention-networks-for-semantic-segmentation/</link>
+      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
+      
+      <guid>/publication/expectation-maximization-attention-networks-for-semantic-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R^2 Net Recurrent and Recursive Network for Sparse View CT Artifacts Removal</title>
+      <link>/publication/r2-net-recurrent-and-recursive-network-for-sparse-view-ct-artifacts-removal/</link>
+      <pubDate>Wed, 19 Jun 2019 21:02:38 +0800</pubDate>
+      
+      <guid>/publication/r2-net-recurrent-and-recursive-network-for-sparse-view-ct-artifacts-removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Squeeze-and-Excitation Net for Single Image Deraining</title>
+      <link>/publication/recurrent-squeeze-and-excitation-net-for-single-image-deraining/</link>
+      <pubDate>Thu, 19 Jul 2018 19:54:59 +0800</pubDate>
+      
+      <guid>/publication/recurrent-squeeze-and-excitation-net-for-single-image-deraining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
