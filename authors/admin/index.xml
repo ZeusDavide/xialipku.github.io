@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 15:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recent researches on semantic segmentation</title>
+      <link>/talk/segmentation/</link>
+      <pubDate>Sun, 07 Apr 2019 15:00:00 +0800</pubDate>
+      
+      <guid>/talk/segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
@@ -73,6 +82,24 @@ rm Untitled.md
 
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>&#34;I love Fashion&#34;</title>
+      <link>/talk/ivfashion/</link>
+      <pubDate>Fri, 25 Jan 2019 14:00:00 +0800</pubDate>
+      
+      <guid>/talk/ivfashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COCO2018</title>
+      <link>/talk/coco2018/</link>
+      <pubDate>Sun, 09 Sep 2018 11:45:00 +0800</pubDate>
+      
+      <guid>/talk/coco2018/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -309,10 +336,10 @@ rm Untitled.md
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 15:00:00 +0800</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am currently a Grade.2 master candidate at Peking University (PKU), fortunately directed by &lt;a href=&#34;http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=4CQKG8oAAAAJ&#34;&gt;Prof. Hong Liu&lt;/a&gt;. Before studying in PKU, I obtained the bachelor’s degree from Beijing University Of Posts And Telecommunications (BUPT) in 2017.&lt;/p&gt;
+      <description>&lt;p&gt;I am a second-year CS master student at Peking University (PKU). Here I am lucky enough to work with &lt;a href=&#34;http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=4CQKG8oAAAAJ&#34;&gt;Prof. Hong Liu&lt;/a&gt;. Before studying in PKU, I obtained my bachelor’s degree from Beijing University Of Posts And Telecommunications (BUPT) in 2017.&lt;/p&gt;
 </description>
     </item>
     
