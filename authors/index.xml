@@ -7,18 +7,82 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 21:30:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 09:19:08 +0800</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>&lt;b&gt;&lt;u&gt;Xia Li*&lt;/u&gt;&lt;/b&gt;</title>
+      <title>&lt;b&gt;&lt;u&gt;Xia Li&lt;/u&gt;&lt;/b&gt;</title>
       <link>/authors/buxia-li/u/b/</link>
-      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
+      <pubDate>Mon, 11 Nov 2019 09:19:08 +0800</pubDate>
       
       <guid>/authors/buxia-li/u/b/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hongyang Li</title>
+      <link>/authors/hongyang-li/</link>
+      <pubDate>Mon, 11 Nov 2019 09:19:08 +0800</pubDate>
+      
+      <guid>/authors/hongyang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianlong Wu</title>
+      <link>/authors/jianlong-wu/</link>
+      <pubDate>Mon, 11 Nov 2019 09:19:08 +0800</pubDate>
+      
+      <guid>/authors/jianlong-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qijie Zhao</title>
+      <link>/authors/qijie-zhao/</link>
+      <pubDate>Mon, 11 Nov 2019 09:19:08 +0800</pubDate>
+      
+      <guid>/authors/qijie-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yibo Yang</title>
+      <link>/authors/yibo-yang/</link>
+      <pubDate>Mon, 11 Nov 2019 09:19:08 +0800</pubDate>
+      
+      <guid>/authors/yibo-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhouchen Lin</title>
+      <link>/authors/zhouchen-lin/</link>
+      <pubDate>Mon, 11 Nov 2019 09:19:08 +0800</pubDate>
+      
+      <guid>/authors/zhouchen-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiancheng Shen</title>
+      <link>/authors/tiancheng-shen/</link>
+      <pubDate>Mon, 11 Nov 2019 08:33:58 +0800</pubDate>
+      
+      <guid>/authors/tiancheng-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 01 Nov 2019 13:35:00 +0800</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am to be a third-year CS master student at Peking University (PKU). Here I am lucky enough to work with &lt;a href=&#34;http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=4CQKG8oAAAAJ&#34;&gt;Prof. Hong Liu&lt;/a&gt;. Before studying in PKU, I obtained my bachelor’s degree from Beijing University Of Posts And Telecommunications (BUPT) in 2017.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,47 +95,11 @@
     </item>
     
     <item>
-      <title>Jianlong Wu</title>
-      <link>/authors/jianlong-wu/</link>
-      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
-      
-      <guid>/authors/jianlong-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yibo Yang</title>
-      <link>/authors/yibo-yang/</link>
-      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
-      
-      <guid>/authors/yibo-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zhisheng Zhong</title>
       <link>/authors/zhisheng-zhong/</link>
       <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
       
       <guid>/authors/zhisheng-zhong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhouchen Lin</title>
-      <link>/authors/zhouchen-lin/</link>
-      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
-      
-      <guid>/authors/zhouchen-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiancheng Shen*</title>
-      <link>/authors/tiancheng-shen/</link>
-      <pubDate>Wed, 19 Jun 2019 21:02:38 +0800</pubDate>
-      
-      <guid>/authors/tiancheng-shen/</guid>
       <description></description>
     </item>
     
@@ -112,16 +140,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 15:00:00 +0800</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am to be a third-year CS master student at Peking University (PKU). Here I am lucky enough to work with &lt;a href=&#34;http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.com/citations?user=4CQKG8oAAAAJ&#34;&gt;Prof. Hong Liu&lt;/a&gt;. Before studying in PKU, I obtained my bachelor’s degree from Beijing University Of Posts And Telecommunications (BUPT) in 2017.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Xiangtai Li</title>
       <link>/authors/xiangtai-li/</link>
       <pubDate>Sun, 07 Apr 2019 15:00:00 +0800</pubDate>
@@ -145,15 +163,6 @@
       <pubDate>Fri, 25 Jan 2019 14:00:00 +0800</pubDate>
       
       <guid>/authors/yang-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hongyang Li</title>
-      <link>/authors/hongyang-li/</link>
-      <pubDate>Sun, 09 Sep 2018 11:45:00 +0800</pubDate>
-      
-      <guid>/authors/hongyang-li/</guid>
       <description></description>
     </item>
     
