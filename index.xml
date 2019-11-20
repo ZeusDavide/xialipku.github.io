@@ -139,15 +139,6 @@
     </item>
     
     <item>
-      <title>Live at Bilibili</title>
-      <link>/talk/live-bilibili/</link>
-      <pubDate>Wed, 23 Oct 2019 20:00:00 +0800</pubDate>
-      
-      <guid>/talk/live-bilibili/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Expectation Maximization Attention Networks for Semantic Segmentation</title>
       <link>/publication/emanet-iccv19/</link>
       <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
