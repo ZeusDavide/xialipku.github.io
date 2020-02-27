@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tiancheng Shen* on Xia Li</title>
+    <title>Tiancheng Shen on Xia Li</title>
     <link>/authors/tiancheng-shen/</link>
-    <description>Recent content in Tiancheng Shen* on Xia Li</description>
+    <description>Recent content in Tiancheng Shen on Xia Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 07 Feb 2020 08:33:58 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="/authors/tiancheng-shen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
+      <link>/publication/spygr-cvpr20/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/spygr-cvpr20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic System Inspired Adaptive Time Stepping Controller for Residual Networks Families</title>

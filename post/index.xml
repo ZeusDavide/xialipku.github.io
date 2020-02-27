@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One paper was accepted by CVPR 2020!</title>
+      <link>/post/cvpr20/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cvpr20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The website of ZERO Lab is now online!</title>
@@ -24,7 +33,7 @@ And Now, I am maintaining &lt;a href=&#34;https://zero-lab-pku.github.io&#34;&gt
     </item>
     
     <item>
-      <title>Two papers accepted by AAAI 2020!</title>
+      <title>Two papers were accepted by AAAI 2020!</title>
       <link>/post/aaai20/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
