@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -18,60 +18,98 @@
   </url>
   
   <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/buxia-li/u/b/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/guangliang-cheng/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/decouple-eccv20/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jianping-shi/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/li-zhang/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shaohua-tan/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiangtai-li/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yunhai-tong/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhouchen-lin/</loc>
+    <lastmod>2020-07-03T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/eccv20/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/cvpr20/</loc>
     <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/buxia-li/u/b/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/hong-liu/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-02-24T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/qijie-zhao/</loc>
     <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -82,31 +120,21 @@
   <url>
     <loc>/authors/tiancheng-shen/</loc>
     <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/yibo-yang/</loc>
     <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/zhouchen-lin/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/hongyang-li/</loc>
     <lastmod>2020-02-07T09:19:08+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jianlong-wu/</loc>
     <lastmod>2020-02-07T09:19:08+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -162,7 +190,6 @@
   <url>
     <loc>/authors/zhisheng-zhong/</loc>
     <lastmod>2019-07-22T21:30:06+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -173,19 +200,16 @@
   <url>
     <loc>/authors/hanrong-ye/</loc>
     <lastmod>2019-05-19T21:21:54+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/mengyuan-liu/</loc>
     <lastmod>2019-05-19T21:21:54+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/qianru-sun/</loc>
     <lastmod>2019-05-19T21:21:54+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -196,7 +220,6 @@
   <url>
     <loc>/authors/wei-shi/</loc>
     <lastmod>2019-05-19T21:21:54+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -205,15 +228,8 @@
   </url>
   
   <url>
-    <loc>/authors/xiangtai-li/</loc>
-    <lastmod>2019-04-07T15:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -229,13 +245,11 @@
   <url>
     <loc>/authors/chaopeng-zhang/</loc>
     <lastmod>2019-01-25T14:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/yang-hu/</loc>
     <lastmod>2019-01-25T14:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -246,7 +260,6 @@
   <url>
     <loc>/authors/hongbin-zha/</loc>
     <lastmod>2018-07-19T19:54:59+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -257,13 +270,11 @@
   <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -279,18 +290,15 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

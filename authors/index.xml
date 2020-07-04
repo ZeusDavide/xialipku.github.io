@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,72 @@
     <item>
       <title>&lt;b&gt;&lt;u&gt;Xia Li&lt;/u&gt;&lt;/b&gt;</title>
       <link>/authors/buxia-li/u/b/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
       
       <guid>/authors/buxia-li/u/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guangliang Cheng</title>
+      <link>/authors/guangliang-cheng/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/guangliang-cheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianping Shi</title>
+      <link>/authors/jianping-shi/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/jianping-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li Zhang</title>
+      <link>/authors/li-zhang/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/li-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaohua Tan</title>
+      <link>/authors/shaohua-tan/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/shaohua-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiangtai Li</title>
+      <link>/authors/xiangtai-li/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/xiangtai-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yunhai Tong</title>
+      <link>/authors/yunhai-tong/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/yunhai-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhouchen Lin</title>
+      <link>/authors/zhouchen-lin/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      
+      <guid>/authors/zhouchen-lin/</guid>
       <description></description>
     </item>
     
@@ -54,15 +117,6 @@
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>/authors/yibo-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhouchen Lin</title>
-      <link>/authors/zhouchen-lin/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/zhouchen-lin/</guid>
       <description></description>
     </item>
     
@@ -136,15 +190,6 @@
       <pubDate>Sun, 19 May 2019 21:21:54 +0800</pubDate>
       
       <guid>/authors/wei-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiangtai Li</title>
-      <link>/authors/xiangtai-li/</link>
-      <pubDate>Sun, 07 Apr 2019 15:00:00 +0800</pubDate>
-      
-      <guid>/authors/xiangtai-li/</guid>
       <description></description>
     </item>
     
