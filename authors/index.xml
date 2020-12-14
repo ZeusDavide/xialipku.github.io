@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2020 12:30:06 +0100</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>&lt;b&gt;&lt;u&gt;Xia Li&lt;/u&gt;&lt;/b&gt;</title>
       <link>/authors/buxia-li/u/b/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
       
       <guid>/authors/buxia-li/u/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fanyang Meng</title>
+      <link>/authors/fanyang-meng/</link>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      
+      <guid>/authors/fanyang-meng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanrong Ye</title>
+      <link>/authors/hanrong-ye/</link>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      
+      <guid>/authors/hanrong-ye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong Liu</title>
+      <link>/authors/hong-liu/</link>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      
+      <guid>/authors/hong-liu/</guid>
       <description></description>
     </item>
     
@@ -130,15 +157,6 @@
     </item>
     
     <item>
-      <title>Hong Liu</title>
-      <link>/authors/hong-liu/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/hong-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Qijie Zhao</title>
       <link>/authors/qijie-zhao/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
@@ -148,7 +166,7 @@
     </item>
     
     <item>
-      <title>Tiancheng Shen*</title>
+      <title>Tiancheng Shen</title>
       <link>/authors/tiancheng-shen/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
       
@@ -189,8 +207,9 @@
       <pubDate>Fri, 01 Nov 2019 13:35:00 +0800</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a first-year Ph.D. student of &lt;a href=&#34;https://vision.ee.ethz.ch&#34;&gt;Computer Vision Lab&lt;/a&gt; at ETH Zurich, fortunately working with Prof. &lt;a href=&#34;http://www.yf.io&#34;&gt;Fisher Yu&lt;/a&gt;. Before coming to Zurich, I obtained my Master&amp;rsquo;s and Bachelor&amp;rsquo;s degree from &lt;a href=&#34;https://www.pku.edu.cn&#34;&gt;Peking University&lt;/a&gt; and &lt;a href=&#34;https://www.bupt.edu.cn&#34;&gt;Beijing University of Posts and Telecommunications&lt;/a&gt;, respectively.
-During my master life, I was lucky enough to work with Prof. &lt;a href=&#34;https://zhouchenlin.github.io/&#34;&gt;Zhouchen Lin&lt;/a&gt; and Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=4CQKG8oAAAAJ&amp;hl=en&#34;&gt;Hong Liu&lt;/a&gt;. You can also find my pages at &lt;a href=&#34;https://zero-lab-pku.github.io/personwise/lixia/&#34;&gt;ZERO Lab&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am a first-year Ph.D. student of &lt;a href=&#34;https://vision.ee.ethz.ch&#34;&gt;Computer Vision Lab&lt;/a&gt; at ETH Zurich, fortunately working with Prof. &lt;a href=&#34;http://www.yf.io&#34;&gt;Fisher Yu&lt;/a&gt;.
+Before coming to Zurich, I obtained my Master&amp;rsquo;s and Bachelor&amp;rsquo;s degree from Peking University and Beijing University of Posts and Telecommunications, respectively. During my master life, I was lucky enough to work with Prof. &lt;a href=&#34;https://zhouchenlin.github.io/&#34;&gt;Zhouchen Lin&lt;/a&gt; and Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=4CQKG8oAAAAJ&amp;hl=en&#34;&gt;Hong Liu&lt;/a&gt;.
+You can also find my pages at &lt;a href=&#34;https://zero-lab-pku.github.io/personwise/lixia/&#34;&gt;ZERO Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -200,15 +219,6 @@ During my master life, I was lucky enough to work with Prof. &lt;a href=&#34;htt
       <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
       
       <guid>/authors/zhisheng-zhong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hanrong Ye</title>
-      <link>/authors/hanrong-ye/</link>
-      <pubDate>Sun, 19 May 2019 21:21:54 +0800</pubDate>
-      
-      <guid>/authors/hanrong-ye/</guid>
       <description></description>
     </item>
     
