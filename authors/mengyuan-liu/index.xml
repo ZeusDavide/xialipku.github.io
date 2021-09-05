@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mengyuan Liu on Xia Li</title>
-    <link>/authors/mengyuan-liu/</link>
+    <link>https://xialipku.github.io/authors/mengyuan-liu/</link>
     <description>Recent content in Mengyuan Liu on Xia Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 19 May 2019 21:21:54 +0800</lastBuildDate>
     
-	    <atom:link href="/authors/mengyuan-liu/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xialipku.github.io/authors/mengyuan-liu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Self Refining Deep Symmetry Enhanced Network for Rain Removal</title>
-      <link>/publication/dsen-icip19/</link>
+      <link>https://xialipku.github.io/publication/dsen-icip19/</link>
       <pubDate>Sun, 19 May 2019 21:21:54 +0800</pubDate>
       
-      <guid>/publication/dsen-icip19/</guid>
+      <guid>https://xialipku.github.io/publication/dsen-icip19/</guid>
       <description></description>
     </item>
     

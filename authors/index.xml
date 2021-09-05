@@ -2,277 +2,358 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Xia Li</title>
-    <link>/authors/</link>
+    <link>https://xialipku.github.io/authors/</link>
     <description>Recent content in Authors on Xia Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 12 Dec 2020 12:30:06 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0800</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://xialipku.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&lt;b&gt;&lt;u&gt;Xia Li&lt;/u&gt;&lt;/b&gt;</title>
-      <link>/authors/buxia-li/u/b/</link>
-      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      <link>https://xialipku.github.io/authors/buxia-li/u/b/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/authors/buxia-li/u/b/</guid>
+      <guid>https://xialipku.github.io/authors/buxia-li/u/b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fanyang Meng</title>
-      <link>/authors/fanyang-meng/</link>
-      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      <title>Ansheng You</title>
+      <link>https://xialipku.github.io/authors/ansheng-you/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/authors/fanyang-meng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hanrong Ye</title>
-      <link>/authors/hanrong-ye/</link>
-      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
-      
-      <guid>/authors/hanrong-ye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hong Liu</title>
-      <link>/authors/hong-liu/</link>
-      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
-      
-      <guid>/authors/hong-liu/</guid>
+      <guid>https://xialipku.github.io/authors/ansheng-you/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guangliang Cheng</title>
-      <link>/authors/guangliang-cheng/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      <link>https://xialipku.github.io/authors/guangliang-cheng/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/authors/guangliang-cheng/</guid>
+      <guid>https://xialipku.github.io/authors/guangliang-cheng/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jianping Shi</title>
-      <link>/authors/jianping-shi/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      <title>Kuiyuan Yang</title>
+      <link>https://xialipku.github.io/authors/kuiyuan-yang/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/authors/jianping-shi/</guid>
+      <guid>https://xialipku.github.io/authors/kuiyuan-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Li Zhang</title>
-      <link>/authors/li-zhang/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      <link>https://xialipku.github.io/authors/li-zhang/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/authors/li-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shaohua Tan</title>
-      <link>/authors/shaohua-tan/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
-      
-      <guid>/authors/shaohua-tan/</guid>
+      <guid>https://xialipku.github.io/authors/li-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiangtai Li</title>
-      <link>/authors/xiangtai-li/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      <link>https://xialipku.github.io/authors/xiangtai-li/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/authors/xiangtai-li/</guid>
+      <guid>https://xialipku.github.io/authors/xiangtai-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yunhai Tong</title>
-      <link>/authors/yunhai-tong/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
+      <link>https://xialipku.github.io/authors/yunhai-tong/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
       
-      <guid>/authors/yunhai-tong/</guid>
+      <guid>https://xialipku.github.io/authors/yunhai-tong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhouchen Lin</title>
-      <link>/authors/zhouchen-lin/</link>
+      <link>https://xialipku.github.io/authors/zhouchen-lin/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/zhouchen-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fisher Yu</title>
+      <link>https://xialipku.github.io/authors/fisher-yu/</link>
+      <pubDate>Sat, 20 Feb 2021 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/fisher-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiangmiao Pang</title>
+      <link>https://xialipku.github.io/authors/jiangmiao-pang/</link>
+      <pubDate>Sat, 20 Feb 2021 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/jiangmiao-pang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linlu Qiu</title>
+      <link>https://xialipku.github.io/authors/linlu-qiu/</link>
+      <pubDate>Sat, 20 Feb 2021 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/linlu-qiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Li</title>
+      <link>https://xialipku.github.io/authors/qi-li/</link>
+      <pubDate>Sat, 20 Feb 2021 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/qi-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trevor Darrel</title>
+      <link>https://xialipku.github.io/authors/trevor-darrel/</link>
+      <pubDate>Sat, 20 Feb 2021 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/trevor-darrel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duo Li</title>
+      <link>https://xialipku.github.io/authors/duo-li/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/duo-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao He</title>
+      <link>https://xialipku.github.io/authors/hao-he/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/hao-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianping Shi</title>
+      <link>https://xialipku.github.io/authors/jianping-shi/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/jianping-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lubin Weng</title>
+      <link>https://xialipku.github.io/authors/lubin-weng/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/lubin-weng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fanyang Meng</title>
+      <link>https://xialipku.github.io/authors/fanyang-meng/</link>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/fanyang-meng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanrong Ye</title>
+      <link>https://xialipku.github.io/authors/hanrong-ye/</link>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/hanrong-ye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong Liu</title>
+      <link>https://xialipku.github.io/authors/hong-liu/</link>
+      <pubDate>Sat, 12 Dec 2020 12:30:06 +0100</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/hong-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongxu Chen</title>
+      <link>https://xialipku.github.io/authors/hongxu-chen/</link>
+      <pubDate>Mon, 28 Sep 2020 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/hongxu-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ke Wei</title>
+      <link>https://xialipku.github.io/authors/ke-wei/</link>
+      <pubDate>Mon, 28 Sep 2020 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/ke-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Menghao Guo</title>
+      <link>https://xialipku.github.io/authors/menghao-guo/</link>
+      <pubDate>Mon, 28 Sep 2020 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/menghao-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhengyang Geng</title>
+      <link>https://xialipku.github.io/authors/zhengyang-geng/</link>
+      <pubDate>Mon, 28 Sep 2020 21:30:06 +0800</pubDate>
+      
+      <guid>https://xialipku.github.io/authors/zhengyang-geng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaohua Tan</title>
+      <link>https://xialipku.github.io/authors/shaohua-tan/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0800</pubDate>
       
-      <guid>/authors/zhouchen-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chuanmin Jia</title>
-      <link>/authors/chuanmin-jia/</link>
-      <pubDate>Fri, 06 Mar 2020 00:08:00 +0800</pubDate>
-      
-      <guid>/authors/chuanmin-jia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shanshe Wang</title>
-      <link>/authors/shanshe-wang/</link>
-      <pubDate>Fri, 06 Mar 2020 00:08:00 +0800</pubDate>
-      
-      <guid>/authors/shanshe-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Siwei Ma</title>
-      <link>/authors/siwei-ma/</link>
-      <pubDate>Fri, 06 Mar 2020 00:08:00 +0800</pubDate>
-      
-      <guid>/authors/siwei-ma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xinfeng Zhang</title>
-      <link>/authors/xinfeng-zhang/</link>
-      <pubDate>Fri, 06 Mar 2020 00:08:00 +0800</pubDate>
-      
-      <guid>/authors/xinfeng-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xuewei Meng</title>
-      <link>/authors/xuewei-meng/</link>
-      <pubDate>Fri, 06 Mar 2020 00:08:00 +0800</pubDate>
-      
-      <guid>/authors/xuewei-meng/</guid>
+      <guid>https://xialipku.github.io/authors/shaohua-tan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qijie Zhao</title>
-      <link>/authors/qijie-zhao/</link>
+      <link>https://xialipku.github.io/authors/qijie-zhao/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
       
-      <guid>/authors/qijie-zhao/</guid>
+      <guid>https://xialipku.github.io/authors/qijie-zhao/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tiancheng Shen</title>
-      <link>/authors/tiancheng-shen/</link>
+      <title>Tiancheng Shen*</title>
+      <link>https://xialipku.github.io/authors/tiancheng-shen/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
       
-      <guid>/authors/tiancheng-shen/</guid>
+      <guid>https://xialipku.github.io/authors/tiancheng-shen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yibo Yang</title>
-      <link>/authors/yibo-yang/</link>
+      <link>https://xialipku.github.io/authors/yibo-yang/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
       
-      <guid>/authors/yibo-yang/</guid>
+      <guid>https://xialipku.github.io/authors/yibo-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hongyang Li</title>
-      <link>/authors/hongyang-li/</link>
+      <link>https://xialipku.github.io/authors/hongyang-li/</link>
       <pubDate>Fri, 07 Feb 2020 09:19:08 +0800</pubDate>
       
-      <guid>/authors/hongyang-li/</guid>
+      <guid>https://xialipku.github.io/authors/hongyang-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jianlong Wu</title>
-      <link>/authors/jianlong-wu/</link>
+      <link>https://xialipku.github.io/authors/jianlong-wu/</link>
       <pubDate>Fri, 07 Feb 2020 09:19:08 +0800</pubDate>
       
-      <guid>/authors/jianlong-wu/</guid>
+      <guid>https://xialipku.github.io/authors/jianlong-wu/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://xialipku.github.io/authors/admin/</link>
       <pubDate>Fri, 01 Nov 2019 13:35:00 +0800</pubDate>
       
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a first-year Ph.D. student of &lt;a href=&#34;https://vision.ee.ethz.ch&#34;&gt;Computer Vision Lab&lt;/a&gt; at ETH Zurich, fortunately working with Prof. &lt;a href=&#34;http://www.yf.io&#34;&gt;Fisher Yu&lt;/a&gt;.
-Before coming to Zurich, I obtained my Master&amp;rsquo;s and Bachelor&amp;rsquo;s degree from Peking University and Beijing University of Posts and Telecommunications, respectively. During my master life, I was lucky enough to work with Prof. &lt;a href=&#34;https://zhouchenlin.github.io/&#34;&gt;Zhouchen Lin&lt;/a&gt; and Prof. &lt;a href=&#34;https://scholar.google.com/citations?user=4CQKG8oAAAAJ&amp;hl=en&#34;&gt;Hong Liu&lt;/a&gt;.
+      <guid>https://xialipku.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am now working as a research assistant at &lt;a href=&#34;https://vision.ee.ethz.ch/&#34;&gt;Computer Vision Lab&lt;/a&gt; of ETH Zurich. Prior to this, I obtained my Master&amp;rsquo;s and Bachlor&amp;rsquo;s degree from Peking University and Beijing University of Posts and Telecommunications, respectively.
+During my postgrade, I worked with Prof. &lt;a href=&#34;https://zhouchenlin.github.io/&#34;&gt;Zhouchen Lin&lt;/a&gt; on image segmentation and low-level vision.
 You can also find my pages at &lt;a href=&#34;https://zero-lab-pku.github.io/personwise/lixia/&#34;&gt;ZERO Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Zhisheng Zhong</title>
-      <link>/authors/zhisheng-zhong/</link>
+      <link>https://xialipku.github.io/authors/zhisheng-zhong/</link>
       <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
       
-      <guid>/authors/zhisheng-zhong/</guid>
+      <guid>https://xialipku.github.io/authors/zhisheng-zhong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mengyuan Liu</title>
-      <link>/authors/mengyuan-liu/</link>
+      <link>https://xialipku.github.io/authors/mengyuan-liu/</link>
       <pubDate>Sun, 19 May 2019 21:21:54 +0800</pubDate>
       
-      <guid>/authors/mengyuan-liu/</guid>
+      <guid>https://xialipku.github.io/authors/mengyuan-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qianru Sun</title>
-      <link>/authors/qianru-sun/</link>
+      <link>https://xialipku.github.io/authors/qianru-sun/</link>
       <pubDate>Sun, 19 May 2019 21:21:54 +0800</pubDate>
       
-      <guid>/authors/qianru-sun/</guid>
+      <guid>https://xialipku.github.io/authors/qianru-sun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wei Shi</title>
-      <link>/authors/wei-shi/</link>
+      <link>https://xialipku.github.io/authors/wei-shi/</link>
       <pubDate>Sun, 19 May 2019 21:21:54 +0800</pubDate>
       
-      <guid>/authors/wei-shi/</guid>
+      <guid>https://xialipku.github.io/authors/wei-shi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chaopeng Zhang</title>
-      <link>/authors/chaopeng-zhang/</link>
+      <link>https://xialipku.github.io/authors/chaopeng-zhang/</link>
       <pubDate>Fri, 25 Jan 2019 14:00:00 +0800</pubDate>
       
-      <guid>/authors/chaopeng-zhang/</guid>
+      <guid>https://xialipku.github.io/authors/chaopeng-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yang Hu</title>
-      <link>/authors/yang-hu/</link>
+      <link>https://xialipku.github.io/authors/yang-hu/</link>
       <pubDate>Fri, 25 Jan 2019 14:00:00 +0800</pubDate>
       
-      <guid>/authors/yang-hu/</guid>
+      <guid>https://xialipku.github.io/authors/yang-hu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hongbin Zha</title>
-      <link>/authors/hongbin-zha/</link>
+      <link>https://xialipku.github.io/authors/hongbin-zha/</link>
       <pubDate>Thu, 19 Jul 2018 19:54:59 +0800</pubDate>
       
-      <guid>/authors/hongbin-zha/</guid>
+      <guid>https://xialipku.github.io/authors/hongbin-zha/</guid>
       <description></description>
     </item>
     
